@@ -225,6 +225,10 @@ header {
   background-color: var(--color-ocean);
 }
 /* Our advantages */
+.our-advantages-section {
+  margin-top: 96px;
+  margin-bottom: 96px;
+}
 .advantages-list {
   display: flex;
   flex-direction: column;
@@ -347,6 +351,7 @@ header {
 }
 /* Our Portfolio */
 .our-portfolio-title {
+  margin-top: 120px;
   margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
